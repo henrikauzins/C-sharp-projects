@@ -1,0 +1,20 @@
+C:\Users\henri\source\repos\facadeProgram\facadeProgram\bin\Debug\netcoreapp2.2\PizzaDeliveryProgram.deps.json
+C:\Users\henri\source\repos\facadeProgram\facadeProgram\bin\Debug\netcoreapp2.2\PizzaDeliveryProgram.runtimeconfig.json
+C:\Users\henri\source\repos\facadeProgram\facadeProgram\bin\Debug\netcoreapp2.2\PizzaDeliveryProgram.runtimeconfig.dev.json
+C:\Users\henri\source\repos\facadeProgram\facadeProgram\bin\Debug\netcoreapp2.2\PizzaDeliveryProgram.dll
+C:\Users\henri\source\repos\facadeProgram\facadeProgram\bin\Debug\netcoreapp2.2\PizzaDeliveryProgram.pdb
+C:\Users\henri\source\repos\facadeProgram\facadeProgram\obj\Debug\netcoreapp2.2\PizzaDeliveryProgram.csprojAssemblyReference.cache
+C:\Users\henri\source\repos\facadeProgram\facadeProgram\obj\Debug\netcoreapp2.2\PizzaDeliveryProgram.AssemblyInfoInputs.cache
+C:\Users\henri\source\repos\facadeProgram\facadeProgram\obj\Debug\netcoreapp2.2\PizzaDeliveryProgram.AssemblyInfo.cs
+C:\Users\henri\source\repos\facadeProgram\facadeProgram\obj\Debug\netcoreapp2.2\PizzaDeliveryProgram.dll
+C:\Users\henri\source\repos\facadeProgram\facadeProgram\obj\Debug\netcoreapp2.2\PizzaDeliveryProgram.pdb
+C:\Users\henri\Desktop\HND Computing and Systems Development\HND 2019 - 2020\Semester 1\Advanced Programming\Section 2 Program code - Henrik Auzins\facadeProgram\bin\Debug\netcoreapp2.2\PizzaDeliveryProgram.deps.json
+C:\Users\henri\Desktop\HND Computing and Systems Development\HND 2019 - 2020\Semester 1\Advanced Programming\Section 2 Program code - Henrik Auzins\facadeProgram\bin\Debug\netcoreapp2.2\PizzaDeliveryProgram.runtimeconfig.json
+C:\Users\henri\Desktop\HND Computing and Systems Development\HND 2019 - 2020\Semester 1\Advanced Programming\Section 2 Program code - Henrik Auzins\facadeProgram\bin\Debug\netcoreapp2.2\PizzaDeliveryProgram.runtimeconfig.dev.json
+C:\Users\henri\Desktop\HND Computing and Systems Development\HND 2019 - 2020\Semester 1\Advanced Programming\Section 2 Program code - Henrik Auzins\facadeProgram\bin\Debug\netcoreapp2.2\PizzaDeliveryProgram.dll
+C:\Users\henri\Desktop\HND Computing and Systems Development\HND 2019 - 2020\Semester 1\Advanced Programming\Section 2 Program code - Henrik Auzins\facadeProgram\bin\Debug\netcoreapp2.2\PizzaDeliveryProgram.pdb
+C:\Users\henri\Desktop\HND Computing and Systems Development\HND 2019 - 2020\Semester 1\Advanced Programming\Section 2 Program code - Henrik Auzins\facadeProgram\obj\Debug\netcoreapp2.2\PizzaDeliveryProgram.csprojAssemblyReference.cache
+C:\Users\henri\Desktop\HND Computing and Systems Development\HND 2019 - 2020\Semester 1\Advanced Programming\Section 2 Program code - Henrik Auzins\facadeProgram\obj\Debug\netcoreapp2.2\PizzaDeliveryProgram.AssemblyInfoInputs.cache
+C:\Users\henri\Desktop\HND Computing and Systems Development\HND 2019 - 2020\Semester 1\Advanced Programming\Section 2 Program code - Henrik Auzins\facadeProgram\obj\Debug\netcoreapp2.2\PizzaDeliveryProgram.AssemblyInfo.cs
+C:\Users\henri\Desktop\HND Computing and Systems Development\HND 2019 - 2020\Semester 1\Advanced Programming\Section 2 Program code - Henrik Auzins\facadeProgram\obj\Debug\netcoreapp2.2\PizzaDeliveryProgram.dll
+C:\Users\henri\Desktop\HND Computing and Systems Development\HND 2019 - 2020\Semester 1\Advanced Programming\Section 2 Program code - Henrik Auzins\facadeProgram\obj\Debug\netcoreapp2.2\PizzaDeliveryProgram.pdb
